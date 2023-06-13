@@ -1,0 +1,38 @@
+footer{
+    background-color: #F0A83E;
+    text-align:center;
+    color:white;
+}
+
+.barra-superior{
+background-color:#222222;
+color:white;
+}
+
+.barra-menu-principal{
+    background-color:#F0A83E;
+    color:white;
+}
+
+.seccion-productos{
+background-color:#FBFAF6;
+}
+.white{
+    color:white;
+    font-weight:bold;
+}
+
+.grey{
+    color:#8A8787;
+    font-weight:bold;
+}
+.negrita {
+    font-weight: bold;
+}
+.centrar{
+    text-align:center;
+    font-weight:bold;
+}
+.fondo{ 
+background-color:#3C2313;
+}
